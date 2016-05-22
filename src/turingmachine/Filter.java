@@ -10,7 +10,7 @@ import turingmachine.Operations.*;
 
 /**
  *
- * @author 530132
+ * @author David
  */
 public class Filter {
     

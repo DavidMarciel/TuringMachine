@@ -9,7 +9,7 @@ import turingmachine.Response;
 
 /**
  *
- * @author 530132
+ * @author David
  */
 public class Move implements Operation{
 

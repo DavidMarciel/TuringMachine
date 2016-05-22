@@ -21,10 +21,6 @@ public class Response {
     private String actualTape;
     private int actualPosition = 0;
     
-//    private State actualState;
-//    private Filter actualFilter;
-//    private ArrayList<Operation> operations;
-
     Response(String line, HashMap<String, State> states) {        
         this.states = states;        
         this.actualTape = line;

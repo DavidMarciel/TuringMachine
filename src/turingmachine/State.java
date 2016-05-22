@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author 530132
+ * @author David
  */
 public class State {
     private String name;
